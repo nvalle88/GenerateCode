@@ -14,5 +14,5 @@ the previous method returns the integer random number.
 
 the previous method how much with an overload which we passed the maximum and the minimum of our range
 
-      GenerateNumber.Generate (10,66)
+     GenerateNumber.Generate (int lower,int top)
 this overload returns the integer random number.
