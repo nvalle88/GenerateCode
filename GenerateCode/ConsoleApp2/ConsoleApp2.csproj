@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\GenerateCode\CodeGenerate.csproj" />
+    <ProjectReference Include="..\GenerateCode\NumberGenerate.csproj" />
   </ItemGroup>
 
 </Project>

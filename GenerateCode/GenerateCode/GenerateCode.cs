@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace CodeGenerate
+namespace NumberGenerate
 {
-    public static class GenerateCode
+    public static class GenerateNumber
     {
         public static int Lower { get; set; }
         public static int Top { get; set; }

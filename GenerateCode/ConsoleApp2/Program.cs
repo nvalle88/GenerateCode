@@ -1,5 +1,5 @@
 ﻿using System;
-using CodeGenerate;
+using NumberGenerate;
 
 namespace ConsoleApp2
 {
@@ -13,11 +13,11 @@ namespace ConsoleApp2
 
         private static void  Example()
         {
-            GenerateCode.Lower = 10;
-            GenerateCode.Top = 25;
-            Console.WriteLine(GenerateCode.Generate().ToString());
+            GenerateNumber.Lower = 10;
+            GenerateNumber.Top = 25;
+            Console.WriteLine(GenerateNumber.Generate().ToString());
 
-            Console.WriteLine(GenerateCode.Generate(10,66).ToString());
+            Console.WriteLine(GenerateNumber.Generate(10,66).ToString());
             Console.ReadLine();
             Example();
         }
