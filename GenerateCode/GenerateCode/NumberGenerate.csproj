@@ -2,10 +2,10 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <PackageId>Generate.Code.Net</PackageId>
+    <PackageId>Generate.Number.Net</PackageId>
     <Authors>Nestor Valle</Authors>
     <Company>Digital Strategy</Company>
-    <Product>GenerateCodeNet</Product>
+    <Product>Generate Number Random .Net</Product>
     <Description>Generate number random</Description>
     <PackageProjectUrl>https://github.com/nvalle88/GenerateCode</PackageProjectUrl>
     <PackageIconUrl>http://www.digitalstrategy.com.ec/Pic/logo2.png</PackageIconUrl>
